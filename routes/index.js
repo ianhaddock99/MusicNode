@@ -4,12 +4,12 @@ let dataFile = require('../data/data.json');
 
 router.get('/', (req,res) => {
 
-    let pageSpeakers = dataFile.albums; //array of albums
+    let pageAlbums = dataFile.albums; //array of albums
 
     let pagePhotos = [];
 
-    pageSpeakers.forEach(speakerObj => {
-        pagePhotos = pagePhotos.concat(speakerObj.artwork)
+    pageAlbums.forEach(albumObj => {
+        pagePhotos = pagePhotos.concat(albumObj.artwork)
     })
 
     res.render('index', {
