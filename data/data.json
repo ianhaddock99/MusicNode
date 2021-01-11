@@ -5,32 +5,32 @@
         "albumname" : "Purple Noon",
         "summary": "On June 30, 2020, Washed Out announced that a new album called Purple Noon would be released on August 7, 2020. He also released a new single, 'Time to Walk Away'.",
         "artwork" : ["purplenoon_ts.jpg"],
-        "tracklist": "1. Too Late<br>2. Face Up<br>3. Time to Walk Away<br>4. Paralyzed<br>5. Reckless Desires<br>6. Game of Chance<br>7. Leave You Behind<br>8. Don't Go<br>9. Hide<br>10. Haunt",
-        "albumSM": "https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5"      
+        "tracklist": ["Too Late", "Face Up", "Time to Walk Away", "Paralyzed", "Reckless Desires", "Game of Chance", "Leave You Behind", "Don't Go", "Hide", "Haunt"],
+        "albumSM": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc?si=YYKpG6cdQUW0S23oshEAqA"      
     },{
         "name": "Washed Out",
         "shortname": "mistermellow",
         "albumname" : "Mister Mellow",
         "summary" : "Mister Mellow is the third studio album by American singer Washed Out. It was released on June 30, 2017, and is his first project with Stones Throw Records. The CD release is accompanied by a visual album on DVD.",
         "artwork": ["mistermellow_ts.jpg"],
-        "tracklist": "1. Title Card<br>2. Burn Out Blues<br>3. Time Off<br>4. Floating By<br>5. I've Been Daydreaming My Entire Life<br>6. Hard to Say Goodbye<br>7. Down and Out<br>8. Insant Calm<br>9. Zonked<br>10. Get Lost<br>11. Easy Does It<br>12. Million Miles Away",
-        "albumSM": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
+        "tracklist": ["Title Card", "Burn Out Blues", "Time Off", "Floating By", "I've Been Daydreaming My Entire Life", "Hard to Say Goodbye", "Down and Out", "Insant Calm", "Zonked", "Get Lost", "Easy Does It", "Million Miles Away"],
+        "albumSM": "https://open.spotify.com/album/04jRKR1FwOlYye86QuMqmu?si=TCa3-CqDT7qd4OZep8vjhA"
     },{
         "name": "Washed Out",
         "shortname": "paracosm",
         "albumname" : "Paracosm",
         "summary": "Paracosm is the second studio album by American singer Washed Out, released on August 7, 2013 by Sub Pop. It was produced by Washed Out and Ben H. Allen and was recorded at Maze Studios in Atlanta. 'It All Feels Right' was released as the album's lead single on June 11, 2013. Upon release, the album received mostly positive reviews from critics. The album debuted at number 21 on the Billboard 200, selling 13,000 copies in its first week.",
         "artwork": ["paracosm_ts.jpg"],
-        "tracklist": "1. Entrance<br>2. It All Feels Right<br>3. Don't Give Up <br>4. Weightless <br>5. All I Know <br>6. Great Escape <br>7. Paracosm <br>8. Falling Back <br>9. All Over Now",
-        "albumSM": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x"
+        "tracklist": ["Entrance", "It All Feels Right", "Don't Give Up", "Weightless", "All I Know", "Great Escape", "Paracosm", "Falling Back", "All Over Now"],
+        "albumSM": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL?si=VHDYZPNBSVWfLrJ1tENbwQ"
     },{
         "name": "Washed Out",
         "shortname": "withinwithout",
         "albumname" : "Within and Without",
         "summary": "Within and Without is the debut studio album by American singer Washed Out, released on July 6, 2011 by Sub Pop. The album debuted at number 26 on the Billboard 200 with first-week sales of 15,000 copies, and by July 2013, it had sold 89,000 copies in the United States.",
         "artwork" : ["withinwithout_ts.jpg"],
-        "tracklist": "1. Eyes Be Closed<br>2. Echoes<br>3. Amor Fati<br>4. Soft<br>5. Far Away<br>6. Before<br>7. You and I<br>8. Within and Without<br>9. A Dedication",
-        "albumSM": "https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym"
+        "tracklist": ["Eyes Be Closed", "Echoes", "Amor Fati", "Soft", "Far Away", "Before", "You and I", "Within and Without", "A Dedication"],
+        "albumSM": "https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr?si=MDM2XoXSQr6g46HAyWBiIg"
     }]
 }
     

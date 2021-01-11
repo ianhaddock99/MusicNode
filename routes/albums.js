@@ -6,18 +6,18 @@ let pageAlbums = dataFile.albums; //array of albums
 
 
 router.get('/albums', (req,res) => {
-    
-
     let pagePhotos = [];
 
     pageAlbums.forEach(albumObj => {
         pagePhotos = pagePhotos.concat(albumObj.artwork)
     })
 
-    res.render('albums', {
+    const metaData = {
         photos: pagePhotos,
         albums: pageAlbums
-    });
+    }
+
+    res.render('albums', metaData);
 
 })
 

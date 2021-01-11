@@ -1,5 +1,64 @@
+body{
+  background-color: #4ECDC4;
+  
+}
+
 .jumbotron {
-  background-image: url("/images/misc/background.jpg");
+  background-image: url("/images/misc/background2.jpg");
   background-size: cover;
   height: 500px;
+  margin-bottom: 0px !important;
+}
+
+.navbar{
+  background-color: #FF6B6B;
+  margin-bottom: 30px;
+}
+
+.circular {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border:solid 5px #F7FFF7;
+}
+
+.spotify {
+  background-color: #1db954 ;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 7px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+
+ol{
+  padding-inline-start: 0px;
+}
+
+.center {
+  text-align: center;
+  list-style-position: inside;
+}
+
+.container-album {
+  width: 35%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 15px;
+  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+  background-color:  #FFE66D;
+}
+
+#one {
+  border:solid 5px #F7FFF7;
+}
+
+.shadow{
+  font-family: 'Shadows Into Light', cursive;
 }
