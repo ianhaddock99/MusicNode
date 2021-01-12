@@ -89,3 +89,14 @@ ol{
 .feedback-text{
   text-align: center;
 }
+
+.close{
+  color: red;
+}
+
+@media only screen and (max-width: 650px) {
+
+  .container-album{
+    width: 90%;
+  }
+}

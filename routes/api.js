@@ -34,15 +34,7 @@ router.delete('/api/delete/:id', (req,res) => {
     const parsedData = JSON.parse(data);
     parsedData.splice(id, 1);
 
-    /**
-     * 
-     * array1 = [1, 2, 3, 4, 5]
-     * array1.splice(2, 1, 5) [0, 1, 2, 3, 4, 5]
-     * 
-     * const item = array.splice(2, 1) = [3]
-     * 
-     * 
-     */
+    
 
     fs.writeFile('data/feedback.json', JSON.stringify(parsedData), 'utf8', (err)=>{
 
