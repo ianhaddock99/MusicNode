@@ -3,8 +3,16 @@ body{
   
 }
 
+.watermelon{
+  background-color: #FF6B6B;
+}
+
+h5{
+  line-height: 2.0rem;
+}
+
 .jumbotron {
-  background-image: url("/images/misc/background2.jpg");
+  background-image: url("/images/misc/qi7a0vqw7w321.png");
   background-size: cover;
   height: 500px;
   margin-bottom: 0px !important;
@@ -60,5 +68,24 @@ ol{
 }
 
 .shadow{
-  font-family: 'Shadows Into Light', cursive;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.shadow1{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.feedback-messages{
+  width: 75%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 15px;
+  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+  background-color:  #FFE66D;
+
+}
+
+.feedback-text{
+  text-align: center;
 }
